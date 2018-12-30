@@ -1,6 +1,6 @@
 # Project Title
 
-Web Development Technologies Implementation
+Implementation of various Web Development Technologies
 * Displaying a marksheet Using XML
 * Form Design and Client Side Validation (Using Jquery and Vanilla JavaScript)
 * Basic PHP operations
@@ -22,6 +22,10 @@ Web Development Technologies Implementation
 * Copy and paste the folder inside htdocs directory (XAMP Server used in this case)
 * open registration.html present in displaying data only folder 
 * open login.php present in Blog and login folder (Credentials are Username Shadab Pass SSSSSS
+
+## AJAX Implementation
+* import aiktc.sql by navigating to localhost/phpmyadmin in browser
+* open createuser.php to get started
 
 ### Prerequisites
 
