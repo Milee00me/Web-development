@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 16pt;
+	box-sizing: border-box;
+
+}
+header > nav ul{
+	list-style: none;
+	background-color: #333333;
+	text-align: center;
+
+}
+
+header > nav ul li{
+	display: inline-block;
+	margin-left: 10px;
+	padding: 10px;
+}
+
+header > nav ul li > a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+main{
+	margin: 10px;
+}
+
+footer{
+	background-color : #333333;
+	color: #ffffff;
+	text-align: center;
+	padding: 2px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	margin-top: 30%;
+}
+
+.contact-form,.social-media{
+	position: relative;
+	float: left;
+	width: 48%;
+	margin-top: 50px;
+	margin-left: 2%;
+	border: 1px solid #000000;
+	padding: 10px;
+	border-radius: 4px;
+}
+
+.contact-form{
+	margin-left: 1%;
+}
+	
+
+.myphoto{
+	text-align: center;
+	color: #51abd5;
+}
+
+.myphoto img{
+	width: 15%;
+	border-radius: 50% 50% 50% 50%;
+	border: 2px dotted black;
+}
+
+.contact-form h3,.social-media h3,.gallery h1{
+	text-align: center;
+}
+
+.contact-form *,.social-media *{
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+
+.social-media i{
+	display: inline;
+	margin-right:  10px;
+}
+
+.social-media a{
+	display: block;
+	color:	#000000;
+	text-decoration: none;
+	text-align: center;
+	margin-bottom: 13px;
+
+}
+
+.contact-form input[type="submit"]{
+	width: 100px;
+	display: block;
+	margin:	0 auto;
+	background-color: #0a84ff;
+	color: #ffffff; 
+	border-radius: 4px;
+	border: none;
+}
+
+.contact-form input[type="submit"]:hover{
+	opacity: 0.8;
+	color: #fafafa;
+}
+
+.gallery figure img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.gallery figure{
+	display: inline-block;
+	border: 1px solid black;
+	position: relative;
+	/*float: left;*/
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 5%;
+}

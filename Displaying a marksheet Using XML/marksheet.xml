@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marksheet>
+	<course>
+		<courseid>CSC401</courseid>
+		<title>APPLIED MATHEMATICS - IV</title>
+		<TH>5</TH>
+		<IA>P</IA>
+		<ORPR>C</ORPR>
+		<TW>4</TW>
+		<total>20</total>
+	</course>
+
+	<course>
+		<courseid>CSC402</courseid>
+		<title>ANALYSIS OF ALGORITHM</title>
+		<TH>4</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>40</total>
+	</course>
+
+	<course>
+		<courseid>CSC403</courseid>
+		<title>COMPUTER ORGANIZATION AND ARCHITECTURE</title>
+		<TH>4</TH>
+		<IA>C</IA>
+		<ORPR>B</ORPR>
+		<TW>4</TW>
+		<total>28</total>
+	</course>
+
+	<course>
+		<courseid>CSC404</courseid>
+		<title>COMPUTER GRAPHICS</title>
+		<TH>4</TH>
+		<IA>A</IA>
+		<ORPR>A</ORPR>
+		<TW>9</TW>
+		<total>36</total>
+	</course>
+
+	<course>
+		<courseid>CSC405</courseid>
+		<title>OPERATING SYSTEM</title>
+		<TH>4</TH>
+		<IA>B</IA>
+		<ORPR>C</ORPR>
+		<TW>7</TW>
+		<total>28</total>
+	</course>
+
+	<course>
+		<courseid>CSL401</courseid>
+		<title>ANALYSIS OF ALGORITHM LAB</title>
+		<TH>1</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL402</courseid>
+		<title>COMPUTER GRAPHICS LAB</title>
+		<TH>1</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL403</courseid>
+		<title>PROCESSOR ARCHITECTURE LAB</title>
+		<TH>1</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>10</total>
+	</course>
+	
+	
+	<course>
+		<courseid>CSL404</courseid>
+		<title>OPERATING SYSTEM LAB</title>
+		<TH>1</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL405</courseid>
+		<title>OPEN SOURCE TECH LAB</title>
+		<TH>2</TH>
+		<IA>O</IA>
+		<ORPR>O</ORPR>
+		<TW>10</TW>
+		<total>20</total>
+	</course>
+	<course>
+		<courseid id="1"> </courseid>
+		<title> TOTAL</title>
+		<TH>27</TH>
+		<IA> </IA>
+		<ORPR> </ORPR>
+		<TW>27</TW>
+		<total>212</total>
+	</course>
+	<course>
+		<courseid >REMARK SUCCESSFULL</courseid>
+		<title> SGPI 7.85</title>
+		<TH>CGPI --</TH>
+		<IA>RESULT DECLARED 23 JULY 2018</IA>
+		<ORPR> </ORPR>
+		<TW>27</TW>
+		<total>212</total>
+	</course>
+	
+	
+</marksheet>
+
